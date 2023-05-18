@@ -7,3 +7,6 @@
 [submodule "ft_onion"]
 	path = ft_onion
 	url = git@github.com:Juan-aga/ft_onion.git
+[submodule "ft_otp"]
+	path = ft_otp
+	url = git@github.com:Juan-aga/ft_otp.git
