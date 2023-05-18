@@ -4,3 +4,6 @@
 [submodule "arachnida"]
 	path = arachnida
 	url = git@github.com:Juan-aga/arachnida.git
+[submodule "ft_onion"]
+	path = ft_onion
+	url = git@github.com:Juan-aga/ft_onion.git
