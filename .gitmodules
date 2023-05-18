@@ -13,3 +13,6 @@
 [submodule "coRSAir"]
 	path = coRSAir
 	url = git@github.com:Juan-aga/coRSAir.git
+[submodule "ft_blockchain"]
+	path = ft_blockchain
+	url = git@github.com:Juan-aga/ft_blockchain.git
