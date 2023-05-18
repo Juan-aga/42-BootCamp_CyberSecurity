@@ -10,3 +10,6 @@
 [submodule "ft_otp"]
 	path = ft_otp
 	url = git@github.com:Juan-aga/ft_otp.git
+[submodule "coRSAir"]
+	path = coRSAir
+	url = git@github.com:Juan-aga/coRSAir.git
