@@ -1,3 +1,6 @@
 [submodule "Python-Module-00"]
 	path = Python-Module-00
 	url = git@github.com:Juan-aga/Python-Module-00.git
+[submodule "arachnida"]
+	path = arachnida
+	url = git@github.com:Juan-aga/arachnida.git
