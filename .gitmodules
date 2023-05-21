@@ -16,3 +16,6 @@
 [submodule "ft_blockchain"]
 	path = ft_blockchain
 	url = git@github.com:Juan-aga/ft_blockchain.git
+[submodule "stockholm"]
+	path = stockholm
+	url = git@github.com:Juan-aga/stockholm.git
